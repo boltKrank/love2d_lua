@@ -40,7 +40,7 @@ function love.load()
 
     -- Paddle starting positions
     player1Y = 30
-    player2Y = VIRTUAL_HEIGHT - 30
+    player2Y = VIRTUAL_HEIGHT - 50
 
     -- ball position
     ballX = VIRTUAL_WIDTH / 2 - 2
