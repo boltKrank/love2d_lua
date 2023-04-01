@@ -9,6 +9,9 @@ Multi-line comments example
 -- https://github.com/Ulydev/push
 push = require 'push'
 
+-- https://github.com/vrld/hump/blob/master/class.lua
+Class = require 'class'
+
 WINDOW_WIDTH = 1280
 WINDOW_HEIGHT = 720
 
